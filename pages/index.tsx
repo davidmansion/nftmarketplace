@@ -38,7 +38,7 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  Psychadelic NFT Marketplace
+                  Psychedelic NFT Marketplace
                 </span>
                 <br />
                 safest ever purchases.
