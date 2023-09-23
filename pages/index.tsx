@@ -57,14 +57,14 @@ const Home: NextPage = () => {
 
               <div className={styles.heroCtaContainer}>
                 <Link className={styles.heroCta} href="/buy">
-                  Get Started
+                  Buy now
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://github.com/thirdweb-example/marketplace-v3"
+                  href="https://t.me/davodavodavo"
                   target="_blank"
                 >
-                  GitHub
+                  Telegram Support
                 </Link>
               </div>
             </div>
