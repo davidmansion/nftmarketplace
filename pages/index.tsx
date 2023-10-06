@@ -51,7 +51,7 @@ const Home: NextPage = () => {
                 >
                   Psycedelic Shop
                 </Link>{" "}
-                Helping to treat mental health disorders in<b>days</b>, <i>not years</i>.
+                Helping to treat mental health disorders in <b>days</b>, <i>not years</i>.
               </p>
 
               <div className={styles.heroCtaContainer}>
