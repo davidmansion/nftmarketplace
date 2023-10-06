@@ -51,7 +51,7 @@ const Home: NextPage = () => {
                 >
                   Psycedelic Shop
                 </Link>{" "}
-                Helping to treat mental health disorders like depression, anxiety, PTSD, stress, pain and are also used in spiritual healing with the help of Sharma's during the Ayahuasca ceremony<b>hours</b>, <i>not months</i>.
+                Helping to treat mental health disorders in<b>days</b>, <i>not years</i>.
               </p>
 
               <div className={styles.heroCtaContainer}>
