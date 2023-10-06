@@ -49,10 +49,9 @@ const Home: NextPage = () => {
                   href="https://thirdweb.com"
                   target="_blank"
                 >
-                  thirdweb
+                  Psycedelic Shop
                 </Link>{" "}
-                gives you the tools you need to create audited, performant, and
-                flexible NFT marketplaces in <b>hours</b>, <i>not months</i>.
+                Helping to treat mental health disorders like depression, anxiety, PTSD, stress, pain and are also used in spiritual healing with the help of Sharma's during the Ayahuasca ceremony<b>hours</b>, <i>not months</i>.
               </p>
 
               <div className={styles.heroCtaContainer}>
