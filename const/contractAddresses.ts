@@ -2,8 +2,8 @@
 
 // 1. Set up the network your smart contracts are deployed to.
 // First, import the chain from the package, then set the NETWORK variable to the chain.
-import { BNB Smart Chain } from "@thirdweb-dev/chains";
-export const NETWORK = BNB Smart Chain;
+import { Binance } from "@thirdweb-dev/chains";
+export const NETWORK = Binance;
 
 // 2. The address of the marketplace V3 smart contract.
 // Deploy your own: https://thirdweb.com/thirdweb.eth/MarketplaceV3
